@@ -2,7 +2,8 @@
 
 Chatting app using react native in frontedn and firebase in backend.
 
-Next Updates :
+Next updates planned:
+
   -> Groups. 
   
   ->Knowing whether the other person is online/typing.
